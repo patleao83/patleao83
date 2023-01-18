@@ -17,7 +17,7 @@
   ### Pra falar comigo, me chame em:
  
 <div> 
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">Meu User do Discord: パトリック#2769 <br>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> Meu User do Discord: パトリック#2769 <br>
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> patrickleao83@gmail.com
  
  
