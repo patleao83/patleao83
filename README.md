@@ -17,8 +17,8 @@
   ### Pra falar comigo, me chame em:
  
 <div> 
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> パトリック#2769 <br>
-  <a href = "mailto:patrickleao83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">Meu User do Discord: パトリック#2769 <br>
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> patrickleao83@gmail.com
  
  
   ![Snake animation](https://github.com/patriste/patriste/blob/output/github-contribution-grid-snake.svg)
