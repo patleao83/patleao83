@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😊
 
  <div>
-   <a href="https://github.com/patriste">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriste&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriste&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/pateko83">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pateko83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateko83&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> patrickleao83@gmail.com
  
  
-  ![Snake animation](https://github.com/patriste/patriste/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pateko83/pateko83/blob/output/github-contribution-grid-snake.svg)
 
 </div>
