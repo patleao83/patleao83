@@ -22,7 +22,7 @@
 <div> 
   <img height="30" width="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> <a href="www.linkedin.com/in/patrickleao"> Meu Perfil no LinkedIn</a> 
   <br> <br>
-  <img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> <p> patrickleao83@gmail.com</p>
+  <img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">   patrickleao83@gmail.com
  
   ![Snake animation](https://github.com/pateko83/pateko83/blob/output/github-contribution-grid-snake.svg)
 
