@@ -7,11 +7,11 @@
 <br>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=256">
-  <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=256">
+  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg">
  <br>
 </div>
  
@@ -20,8 +20,8 @@
   ### Pra falar comigo, me chame em:
  
 <div> 
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> <br>  <a href="www.linkedin.com/in/patrickleao"> <br> <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> <br> patrickleao83@gmail.com
+  <img height="30" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> <br>  <a href="www.linkedin.com/in/patrickleao"> <br> <br>
+  <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> <br> patrickleao83@gmail.com
  
   ![Snake animation](https://github.com/pateko83/pateko83/blob/output/github-contribution-grid-snake.svg)
 
