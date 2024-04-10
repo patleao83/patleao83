@@ -22,7 +22,5 @@
 <div> 
 
   <p><img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> patrickleao83@gmail.com </p>
- 
-  ![Snake animation](https://github.com/pateko83/pateko83/blob/output/github-contribution-grid-snake.svg)
 
 </div>
